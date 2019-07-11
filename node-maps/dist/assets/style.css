@@ -1,0 +1,10 @@
+body {
+  background-color: #00897b;
+}
+.demo-card-wide.mdl-card {
+  width: 10px;
+}
+
+.demo-card-wide > .mdl-card__menu {
+  color: black;
+}
